@@ -1,0 +1,73 @@
+I"�<p class="message">My visual data story <a href="https://www.bbc.com/korean/news-52601647/">그래프로 보는 이전과 달라진 한국</a> was published in BBC’s Korean Service. This post covers techniques and approaches applied to text mining and visualising the data.</p>
+
+<p>Since a new coronavirus outbreak was reported in Wuhan on 31 December 2019 for the first time, the outbreak has been all over the media. My focus is on the Korean media’s coverage of the corona crisis and visualising it.</p>
+
+<p>The process is broken down into three stages:</p>
+
+<p><em>1 Web Scraping</em></p>
+
+<p><em>2 Natural Language Processing</em></p>
+
+<p><em>3 Visualising</em></p>
+
+<h2 id="1-web-scraping">1 Web Scraping</h2>
+
+<p>Using the news search function of <a href="http://new.naver.com">Naver News</a>, I collected news articles by keyword ‘Corona19(코로나19 in Korean)’ and by date from 20 Jan 2020 to 30 April 2020.</p>
+
+<p>The search keyword Corona19 is a common name that Korean media call Covid-19. I set the date range from 20 January, the day the first confirmed case was announced on in Korea. Then, I scrapped the website every 10 days.</p>
+
+<p>There are three ways to scrape news articles from Naver News on R:
+rvest(R package), Naver Open API, N2H4(https://github.com/forkonlp/N2H4)(R package)</p>
+
+<p>‘rvest’ is the most reliable package I can use to crawl the website for a specific date range.</p>
+
+<h2 id="2-natural-language-processing">2 Natural Language Processing</h2>
+
+<p>The first step to analyse articles was to break down the text into separate sentences. In this study, the Korean morphological analyser KoNLP was used for morpheme analysis. KoNLP is the only Korean natural language processing toolkit on R. With the SimplePos22 function of KoNLP I was able to extract nouns from the news articles and POS tagging.</p>
+
+<p>The most complex part was identifying stop words. KoNLP can flag and filter them out by checking a hardcoded list of known stop words, as in the code below.
+I could also use the buildDictionary function to add stop words to delete. Since I didn’t need “coronavirus infection(코로나바이러스 감염증)”, I added them into the dictionary let delete them.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>add\_words &lt;- c("코로나바이러스 감염증")
+buildDictionary(user\_dic = data.frame(add\_words, rep("ncn", length(add\_words))), replace\_usr\_dic = T)
+</code></pre></div></div>
+
+<h2 id="3-visualising">3 Visualising</h2>
+
+<p>To explore the most frequently used top 10 keywords by period I created an interactive bubble chart with the drop-down list for filtering date ranges.</p>
+
+<p>Normally word cloud are used to visualise words that appear the most frequently in the source. But my intention is compared keywords by period. The bubble chart with the drop-down list does the job better in such a case.</p>
+
+<h3 id="an-english-language-version-of-the-bubble-chart">An English-language version of the bubble chart</h3>
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/2576893" data-url="https://flo.uri.sh/visualisation/2576893/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<p>I created interactive bubble charts as well. You can see how I created them when you click the links below.
+Which one do you like the most?</p>
+
+<p><a href="https://codepen.io/looniii/pen/KKVPYQx">packed bubble chart</a>
+![Screenshot 2020-06-03 at 17 14 02][image-1]</p>
+
+<p><a href="https://codepen.io/looniii/pen/YzwKMLp">split packed bubble chart</a>
+![Screenshot 2020-06-03 at 17 15 35][image-2]</p>
+
+<h3 id="one-more-thing">One more thing</h3>
+
+<p>Translating is an extra step in workflow for sharing the dataset with colleagues and tutors who speak different languages.</p>
+
+<p>My initial plan was extracting more than 200 keywords each period to compare the main content of the news articles. Google translation API is a good option to translate a large amount of text.</p>
+
+<p>I contacted engineers involved in making KoLNP to find a suitable machine translation for the Korean language.
+Chel-Hee Lee, who is an adjunct assistant professor of University of Calgary in Canada, said;
+“It may be a good idea to use GoogleLanguageR to translate into English. However, it is necessary to translate manually. Translation is a subjective matter at the end.”
+He also said that natural language processing is a highly subjective matter.</p>
+
+<p>I agree with him. Tools make you life easier, but you have to know how to use them.</p>
+
+<hr />
+
+<p>[1] Naver is the leading portal site in Korea. Its news service Naver News(http://news.naver.com) is a news aggregator website that takes a large portion of news consumption in Korea. It currently sources content from 52 news outlets in real-time. The site stores the articles on its database and presents all of them on its website. It means being able to read all news articles in real-time from all major news outlets on one website in one standardised format. Therefore, it is the place for scraping news articles.</p>
+
+<p>[2] N2H4 is the R package for Naver News Text Crawling. For more information, visit the website</p>
+
+:ET

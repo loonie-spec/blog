@@ -1,0 +1,3 @@
+I"€<p>{% for post in site.categories.news %} {%- include themes/{{ site.amsf_theme
+}}/includes/page-item.html -%} {% endfor %}</p>
+:ET

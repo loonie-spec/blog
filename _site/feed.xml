@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Loonie Park</title>
+  <subtitle>This is visual journalism</subtitle>
+  <updated>2020-07-01T22:34:55+01:00</updated>
+  <id>http://0.0.0.0:4321/</id>
+  <generator uri="https://sparanoid.com/lab/amsf/" version="2.0.18">Almace Scaffolding</generator>
+
+  <link rel="alternate" type="text/html" hreflang="en" href="http://0.0.0.0:4321/" />
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4321/feed.xml" />
+
+  <author>
+    <name>Tunghsiao Liu</name>
+    <uri>http://0.0.0.0:4321/</uri>
+    <email>t@sparanoid.com</email>
+  </author>
+
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Korea since the pandemic</title>
+        <id>http://0.0.0.0:4321/bbc.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/bbc.html" />
+        <published>2020-06-26T00:00:00+01:00</published>
+
+        
+          <updated>2020-07-01T22:32:01+01:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;h3 id=&quot;four-months-have-passed-since-the-first-confirmed-cases-of-a-new-coronavirus-infection-was-identified-in-south-korea-the-graph-shows-how-korea-has-changed-following-corona-19-shock&quot;&gt;Four months have passed since the first confirmed cases of a new coronavirus infection was identified in South Korea. The graph shows how Korea has changed following Corona-19 shock.&lt;/h3&gt;
+&lt;p&gt;#&lt;/p&gt;
+
+&lt;iframe width=&quot;900&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;//plotly.com/~looni/14.embed?logo=false&amp;amp;link=false&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;1. 20 Jan 2020: The first confirmed case in South Korea&lt;/strong&gt;
+A 35-year-old Chinese female from Wuhan, China is found to be infected on arrival at the airport. She had a high temperature the day before travelling, but with no history of visiting a live animal market in Wuhan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 20 Feb 2020: The first case of large-scale local transmission&lt;/strong&gt;
+909 new cases are found on 20 February among Sincheonji Church of Jesus members in the southeastern city of Daegu in Korea. It shows that the virus is particularly infectious in crowded and compact spaces. By March 8, the number of infections traced to the church is 4,482.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. 9 Mar 2020: Mask rationing system kicks off&lt;/strong&gt;
+South Korea launches a mask rationing system. It allows citizens to buy up to two face protective masks from chemists on designated days of the week. Up to 250 masks are supplied to each shop on a daily basis. Due to growing demand, the public has been frustrated to get masks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. 23 Mar 2020: Impose strict social distancing measures&lt;/strong&gt;
+As total cases reach nearly 9,000, the South Korean government implement strict social distancing measures for two weeks, meaning schools are closed and all social gatherings are restricted, including festivals, concerts, religious and sporting events to avoid spreading the virus.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. 6 May 2020: Loosen social distancing&lt;/strong&gt;
+South Korea relax strict social distancing measures as the new coronavirus outbreak slows. For the past 25 days, the number of new infections remains below 50. Under the loosened guidelines, schools, museums and other public facilities will gradually reopen.&lt;/p&gt;
+
+&lt;p&gt;#&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;10 keywords by period&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;900&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; src=&quot;//plotly.com/~looni/12.embed?logo=false&amp;amp;link=false&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;#&lt;/p&gt;
+&lt;h5 id=&quot;will-government-play-a-bigger-role&quot;&gt;Will government play a bigger role?&lt;/h5&gt;
+
+&lt;p&gt;The new coronavirus was all over the news after the outbreak. To understand the narrative of the news, I extracted over 2000 searchable media reports from Naver News by period and analysed frequently used words since 20 January 2020 when the first confirmed case was reported.&lt;/p&gt;
+
+&lt;p&gt;In the result, “government”, “president”, and “prime minister” appeared frequently. It suggests that people showed a great interest in governments’ response to the pandemic.&lt;/p&gt;
+
+&lt;p&gt;From January 21 to early February when the country’s first confirmed cases were found, terms related to the origin of the new virus, such as “Wuhan”, “pneumonia”, and “symptoms” were dominant.&lt;/p&gt;
+
+&lt;p&gt;At the end of February, when large-scale confirmed cases occurred at a church in Daegu in Korea, terms related to the explosive cases such as ‘Daegu’, ‘Sincheonji’, and ‘self-Isolation’ emerged.&lt;/p&gt;
+
+&lt;p&gt;From mid-March, the volume of common terms used to describe governments, such as “president”, “prime minister”, and “government” increased. At the time Italy and Spain were on lockdown and the number of new cases and deaths in the United States increased.&lt;/p&gt;
+
+&lt;p&gt;From the end of March “vaccine” and “cure” emerged as the human trials of coronavirus vaccine began in April. Early clinical trials of vaccine began at Kaiser Permanente Washington Health Research Institute in the US and the University of Oxford in the UK.&lt;/p&gt;
+
+&lt;p&gt;As the uncertainty about the future has increased due to the new virus that no one has experienced, it is expected that the eyes and ears of public opinion will be focused on the decisions of each government for the time being.&lt;/p&gt;
+
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>Four months have passed since the first confirmed cases of a new coronavirus infection was identified in South Korea. The graph shows how Korea has changed following Corona-19 shock.#</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>A study on the text mining</title>
+        <id>http://0.0.0.0:4321/textmining.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/textmining.html" />
+        <published>2020-05-25T00:00:00+01:00</published>
+
+        
+          <updated>2020-07-01T22:31:25+01:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p class=&quot;message&quot;&gt;&lt;strong&gt;Hello!&lt;/strong&gt; I recently published the visual journalism project &lt;a href=&quot;https://www.bbc.com/korean/news-52601647&quot;&gt;그래프로 보는 이전과 달라진 한국&lt;/a&gt; in BBC’s Korean Service on 11 May. This post covers techniques and approaches applied to text mining and visualising the data.&lt;/p&gt;
+
+&lt;p&gt;Since a new coronavirus outbreak was reported in Wuhan on 31 December 2019 for the first time, the outbreak has been all over the media. My focus is on the Korean media’s coverage of the corona crisis and visualising it.&lt;/p&gt;
+
+&lt;p&gt;The process is broken down into three stages:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1 Web Scraping&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2 Natural Language Processing&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;3 Visualising&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;1-web-scraping&quot;&gt;1 Web Scraping&lt;/h3&gt;
+
+&lt;p&gt;Using the news search function of Naver News&lt;sup id=&quot;a1&quot;&gt;&lt;a href=&quot;https://www.bbc.com/korean/news-52601647&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I collected news articles by keyword ‘Corona19(코로나19 in Korean)’ and by date from 20 Jan 2020 to 30 April 2020.&lt;/p&gt;
+
+&lt;p&gt;The search keyword Corona19 is a common name that Korean media call Covid-19. I set the date range from 20 January, the day the first confirmed case was announced on in Korea. Then, I scrapped the website every 10 days.&lt;/p&gt;
+
+&lt;p&gt;There are three ways to scrape news articles from Naver News on R:
+rvest(R package), Naver Open API, N2H4&lt;sup id=&quot;a2&quot;&gt;&lt;a href=&quot;https://public.flourish.studio/visualisation/2576893&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; (R package)&lt;/p&gt;
+
+&lt;p&gt;‘rvest’ is the most reliable package I can use to crawl the website for a specific date range.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-natural-language-processing&quot;&gt;2 Natural Language Processing&lt;/h3&gt;
+
+&lt;p&gt;The first step to analyse articles was to break down the text into separate sentences. In this study, the Korean morphological analyser KoNLP was used for morpheme analysis. KoNLP is the only Korean natural language processing toolkit on R. With the SimplePos22 function of KoNLP I was able to extract nouns from the news articles and POS tagging.&lt;/p&gt;
+
+&lt;p&gt;The most complex part was identifying stop words. KoNLP can flag and filter them out by checking a hardcoded list of known stop words, as in the code below.
+I could also use the buildDictionary function to add stop words to delete. Since I didn’t need “coronavirus infection(코로나바이러스 감염증)”, I added them into the dictionary let delete them.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;add\_words &amp;lt;- c(&quot;코로나바이러스 감염증&quot;)
+buildDictionary(user\_dic = data.frame(add\_words, rep(&quot;ncn&quot;, length(add\_words))), replace\_usr\_dic = T)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;3-visualising&quot;&gt;3 Visualising&lt;/h3&gt;
+
+&lt;p&gt;To explore the most frequently used top 10 keywords by period I created an interactive bubble chart with the drop-down list for filtering date ranges.&lt;/p&gt;
+
+&lt;p&gt;Normally word cloud are used to visualise words that appear the most frequently in the source. But my intention is compared keywords by period. The bubble chart with the drop-down list does the job better in such a case.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://public.flourish.studio/visualisation/2576893&quot;&gt;An English-language version of the bubble chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;flourish-embed flourish-hierarchy&quot; data-src=&quot;visualisation/2576893&quot; data-url=&quot;https://flo.uri.sh/visualisation/2576893/embed&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;I created interactive bubble charts as well. You can see how I created them when you click the links below.
+Which one do you like the most?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/looniii/pen/KKVPYQx&quot;&gt;packed bubble chart&lt;/a&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/56850104/83661529-2ae15080-a5be-11ea-8a1e-e1e11909b2d6.png&quot; alt=&quot;Screenshot 2020-06-03 at 17 14 02&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codepen.io/looniii/pen/YzwKMLp&quot;&gt;split packed bubble chart&lt;/a&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/56850104/83661543-2e74d780-a5be-11ea-9dc8-3493db6cc4a5.png&quot; alt=&quot;Screenshot 2020-06-03 at 17 15 35&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;one-more-thing&quot;&gt;One more thing&lt;/h3&gt;
+
+&lt;p&gt;Translating is an extra step in workflow for sharing the dataset with colleagues and tutors who speak different languages.&lt;/p&gt;
+
+&lt;p&gt;My initial plan was extracting more than 200 keywords each period to compare the main content of the news articles. Google translation API is a good option to translate a large amount of text.&lt;/p&gt;
+
+&lt;p&gt;I contacted engineers involved in making KoLNP to find a suitable machine translation for the Korean language.
+Chel-Hee Lee, who is an adjunct assistant professor of University of Calgary in Canada, said;
+“It may be a good idea to use GoogleLanguageR to translate into English. However, it is necessary to translate manually. Translation is a subjective matter at the end.”
+He also said that natural language processing is a highly subjective matter.&lt;/p&gt;
+
+&lt;p&gt;I agree with him. Tools make you life easier, but you have to know how to use them.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bbc.com/korean/news-52601647&quot;&gt;1&lt;/a&gt; Naver is the leading portal site in Korea. Its news service Naver News(http://news.naver.com) is a news aggregator website that takes a large portion of news consumption in Korea. It currently sources content from 52 news outlets in real-time. The site stores the articles on its database and presents all of them on its website. It means being able to read all news articles in real-time from all major news outlets on one website in one standardised format. Therefore, it is the place for scraping news articles.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://public.flourish.studio/visualisation/2576893&quot;&gt;2&lt;/a&gt; N2H4 is the R package for Naver News Text Crawling. For more information, visit the website(https://github.com/forkonlp/N2H4)&lt;/p&gt;
+
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>Hello! I recently published the visual journalism project 그래프로 보는 이전과 달라진 한국 in BBC’s Korean Service on 11 May. This post covers techniques and approaches applied to text mining and visualising the data.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Upgrading Guide from v1 to v2</title>
+        <id>http://0.0.0.0:4321/upgrading-from-v1-to-v2.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/upgrading-from-v1-to-v2.html" />
+        <published>2018-07-23T00:00:00+01:00</published>
+
+        
+          <updated>2019-09-03T08:30:46+01:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p&gt;Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to &lt;a href=&quot;https://github.com/sparanoid/almace-scaffolding/pull/85&quot;&gt;this Pull Request&lt;/a&gt; side to side to make sure every change you made are synced correctly.&lt;/p&gt;
+
+&lt;p&gt;If you’re a casual blogger only change some color variables for your default theme, Curtana in this situation, that’s good, you can migrate to v2 easier: just run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$ grunt update&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;You should also migrate your own styles in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;user.less&lt;/code&gt; to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_user.scss&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_varaibles.scss&lt;/code&gt;. Due to Sass limitation, I don’t have variable hoisting features like native CSS or Less at hand, so I have to create two user-defined stylesheets:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/_scss/_variables.scss&lt;/code&gt; - This file should contain only Sass variables defined in theme Curtana. It will be loaded at the topmost of theme stylesheet &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;app.scss&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/_scss/_user.scss&lt;/code&gt; - where users create style customization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From 2.0.0, Almace Scaffolding still has the ability to use Less with Grunt.js, however, it’s wise to write your theme in Sass for better future compatibility.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to stick with the Less version:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;v1.1.11 will be the last version that supports Less.&lt;/li&gt;
+  &lt;li&gt;Less version of theme Curtana will be available as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;amsf/amsf-curtana-less&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>Almace Scaffolding now migrates from Less to Sass, this may make your existing projects non-upgradable, it needs quite a lot of work for you to do the migration if you use a custom theme that it’s powered by Less preprocessor. You have to compare your existing projects to this Pull Request side to side to make sure every change you made are synced correctly.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Upgrading Guide: v1.1.0</title>
+        <id>http://0.0.0.0:4321/upgrading-guide-v1.1.0.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/upgrading-guide-v1.1.0.html" />
+        <published>2017-01-07T00:00:00+00:00</published>
+
+        
+          <updated>2017-01-11T03:17:09+00:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p&gt;There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.&lt;/p&gt;
+
+&lt;p&gt;In your front-matter fields:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Replace all &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;svg-headline&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;img-headline&lt;/code&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;heading-img&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Replace all &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;svg-headline-width&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;img-headline-width&lt;/code&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;heading-img-width&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Remove all &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;svg-headline-height&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;img-headline-height&lt;/code&gt; as they’re deprecated and no longer available.&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;heading-img-local: true&lt;/code&gt; if images are stored right inside your project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check the following front-matter data for post thumbnails:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Replace all &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;thumb&lt;/code&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;thumbnail&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;thumb/&lt;/code&gt; prefix to your filename, ie. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;thumbnail: thumb/my-post.png&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;thumbnail-local: true&lt;/code&gt; if thumbnails are stored right inside your project.&lt;/li&gt;
+&lt;/ul&gt;
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>There’re some significant changes in update v1.1.0, action required after you upgrade Almace Scaffolding.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Open Graph</title>
+        <id>http://0.0.0.0:4321/open-graph.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/open-graph.html" />
+        <published>2017-01-06T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T08:30:46+01:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p&gt;Theme Curtana has full Open Graph and Twitter Cards support.&lt;/p&gt;
+
+&lt;p&gt;It will look for the image in the following order:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumbnail&lt;/code&gt; if defined in your post &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;If no specified &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumbnail&lt;/code&gt; defined, it uses &lt;a href=&quot;/custom-heading-background.html&quot;&gt;Heading Background Image&lt;/a&gt; (aka. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.heading-bg&lt;/code&gt;) if defined in your post front-matter field.&lt;/li&gt;
+  &lt;li&gt;If no heading background image found, Curtana will try to grab the first image (wrapped inside &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img&amp;gt;&lt;/code&gt;) in your post as your post thumbnail&lt;/li&gt;
+  &lt;li&gt;If nothing found, it falls back to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;logo.png&lt;/code&gt; located at your site root.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You can always use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page.thumb_force_logo&lt;/code&gt; in your post’s front-matter field to override the above lookup.&lt;/p&gt;
+
+&lt;p&gt;Here’s a preview on Twitter:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/sparanoid/open-graph-preview.png&quot; alt=&quot;Twitter Cards (Open Graph compatible) Preview&quot; /&gt;&lt;/p&gt;
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Jekyll Theme Compatibility</title>
+        <id>http://0.0.0.0:4321/jekyll-theme-compatibility.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/jekyll-theme-compatibility.html" />
+        <published>2016-11-07T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T08:30:46+01:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p&gt;With the recent release of Jekyll, it gets the built-in ability to support &lt;a href=&quot;https://jekyllrb.com/docs/themes/&quot;&gt;themes&lt;/a&gt;, since we’ve already added theme support in 2015, the original config variables &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; would be conflicted with the built-in one.&lt;/p&gt;
+
+&lt;p&gt;To solve this issue, I’ve renamed our &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; option to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;amsf_theme&lt;/code&gt;. And here’s what you need to do to resolve compatibility issues after upgrading to latest Almace Scaffolding:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rename your original &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;theme&lt;/code&gt; option in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_amsf.yml&lt;/code&gt; to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;amsf_theme&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;amsf_theme_url&lt;/code&gt; with your theme Git URL.&lt;/li&gt;
+  &lt;li&gt;Replace all &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site.theme&lt;/code&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site.amsf_theme&lt;/code&gt; in your page templates.&lt;/li&gt;
+&lt;/ul&gt;
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>With the recent release of Jekyll, it gets the built-in ability to support themes, since we’ve already added theme support in 2015, the original config variables theme would be conflicted with the built-in one.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Introducing Curtana</title>
+        <id>http://0.0.0.0:4321/theme-curtana.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/theme-curtana.html" />
+        <published>2016-06-01T00:00:00+01:00</published>
+
+        
+          <updated>2019-09-03T08:30:46+01:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p&gt;Curtana is the default theme of &lt;a href=&quot;https://sparanoid.com/lab/amsf/&quot;&gt;AMSF&lt;/a&gt; (Almace Scaffolding).&lt;/p&gt;
+
+&lt;h3 id=&quot;features&quot;&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A variant of &lt;a href=&quot;https://sparanoid.com/&quot;&gt;sparanoid.com&lt;/a&gt;, looking great on any modern browsers&lt;/li&gt;
+  &lt;li&gt;Minimalism design, No jQuery, no &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;everybody-shake-ur-body.js&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Ideal for the personal blog, portfolio, product blog and Tumblr-like link blog&lt;/li&gt;
+  &lt;li&gt;(Maybe) &lt;a href=&quot;https://github.com/sparanoid/sparanoid.com/commit/9b44b4c0f57c3dd1e828d828a95cc21b992785ce&quot;&gt;the first&lt;/a&gt; template that uses &lt;a href=&quot;https://www.w3.org/TR/css3-values/#viewport-relative-lengths&quot;&gt;viewport relative units&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Handcrafted stylesheets. No Bootstrap or other bloated frameworks are used, unminified CSS &amp;lt; 12 KB&lt;/li&gt;
+  &lt;li&gt;Predefined CSS and Sass (SCSS) variables make it easier to change color schemes for posts&lt;/li&gt;
+  &lt;li&gt;Dynamic color scheme for code highlighters powered by &lt;a href=&quot;https://sparanoid.com/lab/randomized/&quot;&gt;Randomized&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Open Graph and Twitter Cards support&lt;/li&gt;
+  &lt;li&gt;No Internet Explorer support&lt;/li&gt;
+&lt;/ul&gt;
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>Curtana is the default theme of AMSF (Almace Scaffolding).</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Deployment Methods</title>
+        <id>http://0.0.0.0:4321/deployment-methods.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/deployment-methods.html" />
+        <published>2016-03-18T00:00:00+00:00</published>
+
+        
+          <updated>2019-09-03T08:30:46+01:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p&gt;Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to &lt;a href=&quot;https://jekyllrb.com/docs/deployment-methods/&quot;&gt;Jekyll - Deployment methods&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;web-hosting-providers-ftpsftp&quot;&gt;Web Hosting Providers (FTP/SFTP)&lt;/h2&gt;
+
+&lt;p&gt;Just about any traditional web hosting provider will let you upload files to their servers over FTP. You can simply run the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt build&lt;/code&gt; command and upload all files generated under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_site&lt;/code&gt; to the HTTP root folder of your hosting account.&lt;/p&gt;
+
+&lt;h2 id=&quot;rsync&quot;&gt;rsync&lt;/h2&gt;
+
+&lt;p&gt;There’s a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_deploy.yml&lt;/code&gt; at the root of your AMSF project containing a basic &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rsync&lt;/code&gt; configurations. Change these configurations to yours and then run:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;grunt deploy:rsync
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can deploy it for specific environments, the following command will deploy your site to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;beta&lt;/code&gt; environment via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rsync&lt;/code&gt; method you defined in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_deploy.yml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;grunt deploy:rsync &lt;span class=&quot;nt&quot;&gt;--env&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;beta
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;amazon-s3-s3_website&quot;&gt;Amazon S3 (s3_website)&lt;/h2&gt;
+
+&lt;p&gt;You can also deploy your site to Amazon S3 via &lt;a href=&quot;https://github.com/laurilehmijoki/s3_website&quot;&gt;s3_website&lt;/a&gt;, see &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;s3_website.example.yml&lt;/code&gt; for more info.&lt;/p&gt;
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to Jekyll - Deployment methods.</summary>
+        
+      </entry>
+    
+  
+    
+      
+
+      
+
+      <entry>
+        <title>Multiple Themes Support</title>
+        <id>http://0.0.0.0:4321/multiple-themes-support.html</id>
+        <link rel="alternate" type="text/html" href="http://0.0.0.0:4321/multiple-themes-support.html" />
+        <published>2015-08-18T00:00:00+01:00</published>
+
+        
+          <updated>2017-01-20T09:00:20+00:00</updated>
+        
+
+        <author>
+          <name>Tunghsiao Liu</name>
+          <uri>https://sparanoid.com/</uri>
+          <email>t@sparanoid.com</email>
+        </author>
+
+        <content type="html" xml:base="http://0.0.0.0:4321/">
+          
+            &lt;p&gt;From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See &lt;a href=&quot;/themes.html&quot;&gt;Themes&lt;/a&gt; for more information.&lt;/p&gt;
+
+          
+          
+        
+      
+        </content>
+
+        
+          <summary>From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See Themes for more information.</summary>
+        
+      </entry>
+    
+  
+</feed>

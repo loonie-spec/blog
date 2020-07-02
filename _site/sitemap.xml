@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://0.0.0.0:4321/</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>
+
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/about/</loc>
+        
+          <lastmod>2017-01-18</lastmod>
+        
+      </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/</loc>
+        
+          <lastmod>2019-09-13</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/news/</loc>
+        
+          <lastmod>2018-07-03</lastmod>
+        
+      </url>
+    
+  
+
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/bbc.html</loc>
+        
+          <lastmod>2020-07-01</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/textmining.html</loc>
+        
+          <lastmod>2020-07-01</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/upgrading-from-v1-to-v2.html</loc>
+        
+          <lastmod>2019-09-03</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/upgrading-guide-v1.1.0.html</loc>
+        
+          <lastmod>2017-01-11</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/open-graph.html</loc>
+        
+          <lastmod>2019-09-03</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/jekyll-theme-compatibility.html</loc>
+        
+          <lastmod>2019-09-03</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/theme-curtana.html</loc>
+        
+          <lastmod>2019-09-03</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/deployment-methods.html</loc>
+        
+          <lastmod>2019-09-03</lastmod>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://0.0.0.0:4321/multiple-themes-support.html</loc>
+        
+          <lastmod>2017-01-20</lastmod>
+        
+      </url>
+    
+  
+
+</urlset>
