@@ -7,7 +7,7 @@
 # Jekyll basic configurations
 #
 source: _app
-destination: _docs
+destination: _site
 timezone: Europe/London
 permalink: /:title.html
 markdown: kramdown
@@ -99,7 +99,7 @@ description: This is visual journalism
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl: "//loonie-spec.github.io/blog"
+baseurl: "https://loonie-spec.github.io/blog"
 
 # Flatten base
 #
@@ -109,7 +109,7 @@ baseurl: "//loonie-spec.github.io/blog"
 # enable this option if you're using GitHub Pages.
 #
 # Default:      false
-flatten_base: true
+flatten_base: false
 
 # CSS path used in templates
 #
